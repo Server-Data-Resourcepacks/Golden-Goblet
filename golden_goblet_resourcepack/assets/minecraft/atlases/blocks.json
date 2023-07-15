@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "event_goblet",
+            "prefix": "event_goblet/"
+        }
+    ]
+}

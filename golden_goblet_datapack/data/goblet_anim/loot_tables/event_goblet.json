@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:ender_dragon_spawn_egg",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Golden Goblet\",\"color\":\"gold\",\"italic\":false}'},CustomModelData:1,tags:\"event_goblet\",EntityTag:{id:\"minecraft:marker\",Rotation:[1F,0F],Tags:[\"event_goblet_spawner\"]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
